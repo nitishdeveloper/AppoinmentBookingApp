@@ -1,0 +1,20 @@
+.header{
+	height:79px;
+	border:1px solid #e9ecef;
+	background: #e9ecef;
+}
+.nav{
+	height:50px;
+	border:1px solid blue;
+	background:lime;
+}
+
+.body{
+	border:1px solid #e9ecef;
+}
+
+.footer{
+	height:40px;
+	border:1px solid #e9ecef;
+	background:#e9ecef;
+}
